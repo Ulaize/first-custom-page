@@ -46,6 +46,10 @@ img{
     height: auto;
     border-radius:10px;
     background:rgba(108, 228, 255, 0.79);
+    
+}
+.buttons:hover{
+   background-color:rgba(108, 228, 255, 0.60);
 }
 
 #social{
@@ -65,4 +69,9 @@ img{
      color:#FCD378;
 }
 
+
+.fa-custom:hover{
+   background-color:#FCD378;
+   opacity:0.8;
+}
 
